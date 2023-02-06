@@ -46,7 +46,7 @@ jobs:
         path: ./build
 
     - name: Deploy to gh-pages
-      uses: arjunsedani/elanco@v2.301.1
+      uses: arjunsedani/elanco@v2
       with:
         github_token: ${ { secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
         publish_dir: ./build
