@@ -11,16 +11,15 @@ env:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout code
+    - name: Checkout
       uses: actions/checkout@v2
-      
+
     - name: Install dependencies
-      run: |
-        npm ci
-        
-    - name: Build and deploy
+      run: npm ci
+
+    - name: Build and Deploy
       run: |
         npm run build
         cd build
@@ -29,4 +28,4 @@ jobs:
         git config user.name "arjunsedani"
         git add .
         git commit -m "Deploy to GitHub Pages"
-        git push --force --quiet "https://${ACCESS_TOKEN}@github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git" master:gh-pages
+        git push --force --quiet "https://${ACCESS_TOKEN}@github.com/YOUR_USERNAME/<YOUR_REPO_NAME>.git" master:gh-pages
