@@ -1,0 +1,91 @@
+{
+  "component": {
+    "button": {
+      "primary": {
+        "default": {
+          "default": {
+            "background": "#0077CC",
+            "color": "#FFFFFF",
+            "elevation": "none"
+          },
+          "active": {
+            "background": "#0061A6"
+          },
+          "focus": {
+            "background": "#0077CC",
+            "borderColor": "#458FFF"
+          },
+          "hover": {
+            "background": "#0061A6"
+          },
+          "disabled": {
+            "background": "#99D5FF",
+            "color": "#FFFFFF"
+          }
+        }
+      },
+      "basic": {
+        "default": {
+          "default": {
+            "background": "#FFFFFF",
+            "borderColor": "#B0B9C0",
+            "color": "#172733"
+          },
+          "active": {
+            "background": "#DDE3E7"
+          },
+          "focus": {
+            "background": "#FFFFFF",
+            "borderColor": "#458FFF"
+          },
+          "hover": {
+            "background": "#F5F7F9"
+          },
+          "disabled": {
+            "background": "#FFFFFF",
+            "borderColor": "#DDE3E7",
+            "color": "#9BA4AB"
+          }
+        }
+      },
+      "plain": {
+        "default": {
+          "default": {
+            "background": "transparent",
+            "color": "#172733"
+          },
+          "active": {
+            "background": "#FAFAFA"
+          },
+          "focus": {
+            "background": "#FAFAFA",
+            "borderColor": "#458FFF"
+          },
+          "hover": {
+            "background": "#FAFAFA"
+          },
+          "disabled": {
+            "background": "transparent"
+          }
+        }
+      },
+      "default": {
+        "default": {
+          "default": {
+            "fontSize": "0.875rem"
+          }
+        },
+        "md": {
+          "default": {
+            "fontSize": "1rem"
+          }
+        },
+        "lg": {
+          "default": {
+            "fontSize": "1rem"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2721 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button match the snapshot 1`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #FF3E3E;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 32px;
+  padding: 8px 24px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #CF2929;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FF3E3E;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #CF2929;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round small c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary
+</button>
+`;
+
+exports[`Button match the snapshot 2`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #b0b9c0;
+  color: #172733;
+  height: 32px;
+  padding: 8px 24px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #dde3e7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #f5f7f9;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+  border: 1px solid transparent;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round small c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic
+</button>
+`;
+
+exports[`Button match the snapshot 3`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 24px;
+  padding: 4px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: #b0b9c0;
+}
+
+<button
+  class="plain round small c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  plain
+</button>
+`;
+
+exports[`Button match the snapshot 4`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #FF3E3E;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #CF2929;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FF3E3E;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #CF2929;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary
+</button>
+`;
+
+exports[`Button match the snapshot 5`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #b0b9c0;
+  color: #172733;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #dde3e7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #f5f7f9;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+  border: 1px solid transparent;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic
+</button>
+`;
+
+exports[`Button match the snapshot 6`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 40px;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: #b0b9c0;
+}
+
+<button
+  class="plain round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  plain
+</button>
+`;
+
+exports[`Button match the snapshot 7`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #FF3E3E;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 48px;
+  padding: 14px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #CF2929;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FF3E3E;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #CF2929;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round large c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary
+</button>
+`;
+
+exports[`Button match the snapshot 8`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #b0b9c0;
+  color: #172733;
+  height: 48px;
+  padding: 14px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #dde3e7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #f5f7f9;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+  border: 1px solid transparent;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round large c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic
+</button>
+`;
+
+exports[`Button match the snapshot 9`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 48px;
+  padding: 12px 14px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: #b0b9c0;
+}
+
+<button
+  class="plain round large c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  plain
+</button>
+`;
+
+exports[`Button match the snapshot 10`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #FF3E3E;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #CF2929;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FF3E3E;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #CF2929;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary default
+</button>
+`;
+
+exports[`Button match the snapshot 11`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #b0b9c0;
+  color: #172733;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #dde3e7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #f5f7f9;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+  border: 1px solid transparent;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic default
+</button>
+`;
+
+exports[`Button match the snapshot 12`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 24px;
+  padding: 4px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: #b0b9c0;
+}
+
+<button
+  class="plain round small c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  plain default
+</button>
+`;
+
+exports[`Button match the snapshot 13`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #FF3E3E;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #CF2929;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FF3E3E;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #CF2929;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round medium c0"
+  disabled=""
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary disabled
+</button>
+`;
+
+exports[`Button match the snapshot 14`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #b0b9c0;
+  color: #172733;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #dde3e7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #f5f7f9;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+  border: 1px solid transparent;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round medium c0"
+  disabled=""
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic disabled
+</button>
+`;
+
+exports[`Button match the snapshot 15`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 24px;
+  padding: 4px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: #b0b9c0;
+}
+
+<button
+  class="plain round small c0"
+  disabled=""
+  style="font-family: Public Sans;"
+  type="button"
+>
+  plain disabled
+</button>
+`;
+
+exports[`Button match the snapshot 16`] = `
+<span>
+  primary with icon
+</span>
+`;
+
+exports[`Button match the snapshot 17`] = `
+<span>
+  basic with icon
+</span>
+`;
+
+exports[`Button match the snapshot 18`] = `
+<span>
+  plain with icon
+</span>
+`;
+
+exports[`Button match the snapshot 19`] = `
+<span>
+  with icon prop
+</span>
+`;
+
+exports[`Button match the snapshot 20`] = `
+<span>
+  with icon prop align right
+</span>
+`;
+
+exports[`Button match the snapshot 21`] = `
+<span>
+  with icon prop
+</span>
+`;
+
+exports[`Button match the snapshot 22`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #CF2929;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #B32B2B;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #CF2929;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #B32B2B;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #dde3e7;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary highContrast
+</button>
+`;
+
+exports[`Button match the snapshot 23`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #b0b9c0;
+  color: #172733;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #dde3e7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #f5f7f9;
+}
+
+.c0:disabled {
+  background-color: #dde3e7;
+  border: 1px solid transparent;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic highContrast
+</button>
+`;
+
+exports[`Button match the snapshot 24`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #b0b9c0;
+  color: #172733;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #dde3e7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #f5f7f9;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+  border: 1px solid transparent;
+  color: #858f96;
+  cursor: not-allowed;
+}
+
+<button
+  class="default round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  default
+</button>
+`;
+
+exports[`Button match the snapshot 25`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 24px;
+  padding: 4px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: #b0b9c0;
+}
+
+<button
+  class="link round small c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  link
+</button>
+`;
+
+exports[`Button match the snapshot 26`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #FF3E3E;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 32px;
+  padding: 8px 24px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #CF2929;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FF3E3E;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #CF2929;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #FFA6A6;
+  color: #FFFFFF;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round small c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary
+</button>
+`;
+
+exports[`Button match the snapshot 27`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #B0B9C0;
+  color: #172733;
+  height: 32px;
+  padding: 8px 24px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #DDE3E7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #F5F7F9;
+}
+
+.c0:disabled {
+  background-color: #FFFFFF;
+  border: 1px solid transparent;
+  color: #9BA4AB;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round small c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic
+</button>
+`;
+
+exports[`Button match the snapshot 28`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 24px;
+  padding: 4px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: transparent;
+}
+
+<button
+  class="plain round small c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  plain
+</button>
+`;
+
+exports[`Button match the snapshot 29`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #FF3E3E;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #CF2929;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FF3E3E;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #CF2929;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #FFA6A6;
+  color: #FFFFFF;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary
+</button>
+`;
+
+exports[`Button match the snapshot 30`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #B0B9C0;
+  color: #172733;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #DDE3E7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #F5F7F9;
+}
+
+.c0:disabled {
+  background-color: #FFFFFF;
+  border: 1px solid transparent;
+  color: #9BA4AB;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic
+</button>
+`;
+
+exports[`Button match the snapshot 31`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 40px;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: transparent;
+}
+
+<button
+  class="plain round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  plain
+</button>
+`;
+
+exports[`Button match the snapshot 32`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #FF3E3E;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 48px;
+  padding: 14px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #CF2929;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FF3E3E;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #CF2929;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #FFA6A6;
+  color: #FFFFFF;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round large c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary
+</button>
+`;
+
+exports[`Button match the snapshot 33`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #B0B9C0;
+  color: #172733;
+  height: 48px;
+  padding: 14px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #DDE3E7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #F5F7F9;
+}
+
+.c0:disabled {
+  background-color: #FFFFFF;
+  border: 1px solid transparent;
+  color: #9BA4AB;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round large c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic
+</button>
+`;
+
+exports[`Button match the snapshot 34`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 48px;
+  padding: 12px 14px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: transparent;
+}
+
+<button
+  class="plain round large c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  plain
+</button>
+`;
+
+exports[`Button match the snapshot 35`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #FF3E3E;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #CF2929;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FF3E3E;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #CF2929;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #FFA6A6;
+  color: #FFFFFF;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary default
+</button>
+`;
+
+exports[`Button match the snapshot 36`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #B0B9C0;
+  color: #172733;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #DDE3E7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #F5F7F9;
+}
+
+.c0:disabled {
+  background-color: #FFFFFF;
+  border: 1px solid transparent;
+  color: #9BA4AB;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic default
+</button>
+`;
+
+exports[`Button match the snapshot 37`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 24px;
+  padding: 4px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: transparent;
+}
+
+<button
+  class="plain round small c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  plain default
+</button>
+`;
+
+exports[`Button match the snapshot 38`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #FF3E3E;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #CF2929;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FF3E3E;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #CF2929;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #FFA6A6;
+  color: #FFFFFF;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round medium c0"
+  disabled=""
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary disabled
+</button>
+`;
+
+exports[`Button match the snapshot 39`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #B0B9C0;
+  color: #172733;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #DDE3E7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #F5F7F9;
+}
+
+.c0:disabled {
+  background-color: #FFFFFF;
+  border: 1px solid transparent;
+  color: #9BA4AB;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round medium c0"
+  disabled=""
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic disabled
+</button>
+`;
+
+exports[`Button match the snapshot 40`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 24px;
+  padding: 4px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: transparent;
+}
+
+<button
+  class="plain round small c0"
+  disabled=""
+  style="font-family: Public Sans;"
+  type="button"
+>
+  plain disabled
+</button>
+`;
+
+exports[`Button match the snapshot 41`] = `
+<span>
+  primary with icon
+</span>
+`;
+
+exports[`Button match the snapshot 42`] = `
+<span>
+  basic with icon
+</span>
+`;
+
+exports[`Button match the snapshot 43`] = `
+<span>
+  plain with icon
+</span>
+`;
+
+exports[`Button match the snapshot 44`] = `
+<span>
+  with icon prop
+</span>
+`;
+
+exports[`Button match the snapshot 45`] = `
+<span>
+  with icon prop align right
+</span>
+`;
+
+exports[`Button match the snapshot 46`] = `
+<span>
+  with icon prop
+</span>
+`;
+
+exports[`Button match the snapshot 47`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: #FF3E3E;
+  border: 1px solid transparent;
+  color: #FFFFFF;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #CF2929;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FF3E3E;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #CF2929;
+  cursor: pointer;
+}
+
+.c0:disabled {
+  background-color: #FFA6A6;
+  color: #FFFFFF;
+  cursor: not-allowed;
+}
+
+<button
+  class="primary round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  primary highContrast
+</button>
+`;
+
+exports[`Button match the snapshot 48`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #B0B9C0;
+  color: #172733;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #DDE3E7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #F5F7F9;
+}
+
+.c0:disabled {
+  background-color: #FFFFFF;
+  border: 1px solid transparent;
+  color: #9BA4AB;
+  cursor: not-allowed;
+}
+
+<button
+  class="basic round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  basic highContrast
+</button>
+`;
+
+exports[`Button match the snapshot 49`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid #B0B9C0;
+  color: #172733;
+  height: 40px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active:not([disabled]) {
+  background-color: #DDE3E7;
+}
+
+.c0:focus:not([disabled]) {
+  background-color: #FFFFFF;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not([disabled]) {
+  background-color: #F5F7F9;
+}
+
+.c0:disabled {
+  background-color: #FFFFFF;
+  border: 1px solid transparent;
+  color: #9BA4AB;
+  cursor: not-allowed;
+}
+
+<button
+  class="default round medium c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  default
+</button>
+`;
+
+exports[`Button match the snapshot 50`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #172733;
+  height: 24px;
+  padding: 4px;
+  font-size: 0.875rem;
+  border-radius: 4px;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0 > svg {
+  margin: 0px 8px;
+  height: 16px;
+  width: 16px;
+}
+
+.c0 > svg:first-child {
+  margin-left: 0px;
+}
+
+.c0 > svg:last-child {
+  margin-right: 0px;
+}
+
+.c0:active {
+  background-color: #FAFAFA;
+}
+
+.c0:focus {
+  background-color: #FAFAFA;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #458FFF;
+  outline: none;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  color: transparent;
+}
+
+<button
+  class="link round small c0"
+  style="font-family: Public Sans;"
+  type="button"
+>
+  link
+</button>
+`;

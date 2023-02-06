@@ -1,0 +1,134 @@
+{
+  "foundation": {
+    "elevation": {
+      "1": {
+        "default": {
+          "value": "0 1px 0 rgba(0, 0, 0, 0.05)",
+          "type": "boxShadow"
+        }
+      },
+      "2": {
+        "default": {
+          "value": [
+            "0 0 1px rgba(0, 0, 0, 0.25)",
+            "0 2px 4px rgba(0, 0, 0, 0.05)"
+          ],
+          "type": "boxShadow"
+        }
+      },
+      "3": {
+        "default": {
+          "value": [
+            "0 0 1px rgba(0, 0, 0, 0.25)",
+            "0 4px 4px rgba(0, 0, 0, 0.05)"
+          ],
+          "type": "boxShadow"
+        }
+      },
+      "4": {
+        "default": {
+          "value": [
+            "0 0 1px rgba(0, 0, 0, 0.25)",
+            "0 8px 8px rgba(0, 0, 0, 0.08)"
+          ],
+          "type": "boxShadow"
+        }
+      },
+      "5": {
+        "default": {
+          "value": [
+            "0 0 1px rgba(0, 0, 0, 0.25)",
+            "0 12px 24px rgba(0, 0, 0, 0.2)"
+          ],
+          "type": "boxShadow"
+        }
+      }
+    },
+    "opacity": {
+      "0": {
+        "default": {
+          "value": 0,
+          "type": "number"
+        }
+      },
+      "5": {
+        "default": {
+          "value": 0.05,
+          "type": "number"
+        }
+      },
+      "10": {
+        "default": {
+          "value": 0.1,
+          "type": "number"
+        }
+      },
+      "20": {
+        "default": {
+          "value": 0.2,
+          "type": "number"
+        }
+      },
+      "30": {
+        "default": {
+          "value": 0.3,
+          "type": "number"
+        }
+      },
+      "40": {
+        "default": {
+          "value": 0.4,
+          "type": "number"
+        }
+      },
+      "50": {
+        "default": {
+          "value": 0.5,
+          "type": "number"
+        }
+      },
+      "60": {
+        "default": {
+          "value": 0.6,
+          "type": "number"
+        }
+      },
+      "70": {
+        "default": {
+          "value": 0.7,
+          "type": "number"
+        }
+      },
+      "75": {
+        "default": {
+          "value": 0.75,
+          "type": "number"
+        }
+      },
+      "80": {
+        "default": {
+          "value": 0.8,
+          "type": "number"
+        }
+      },
+      "90": {
+        "default": {
+          "value": 0.9,
+          "type": "number"
+        }
+      },
+      "95": {
+        "default": {
+          "value": 0.95,
+          "type": "number"
+        }
+      },
+      "100": {
+        "default": {
+          "value": 1,
+          "type": "number"
+        }
+      }
+    }
+  }
+}

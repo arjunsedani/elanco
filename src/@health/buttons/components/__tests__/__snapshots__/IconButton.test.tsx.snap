@@ -1,0 +1,807 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IconButton should match the snapshot 1`] = `
+.c1 {
+  fill: none;
+  stroke: none;
+}
+
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0px;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  height: 32px;
+  width: 32px;
+  font-size: 1rem;
+  color: #9ba4ab;
+}
+
+.c0 path {
+  fill: #6f7a81;
+}
+
+.c0:active {
+  background-color: #ECECEC;
+}
+
+.c0:focus {
+  background-color: transparent;
+  border: 2px solid #458FFF;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+}
+
+.c0:disabled path {
+  fill: #c7cfd5;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0px;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  height: 32px;
+  width: 32px;
+  font-size: 1rem;
+  color: #9ba4ab;
+  width: 24px;
+  height: 24px;
+}
+
+.c2 path {
+  fill: #6f7a81;
+}
+
+.c2:active {
+  background-color: #ECECEC;
+}
+
+.c2:focus {
+  background-color: transparent;
+  border: 2px solid #458FFF;
+}
+
+.c2:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c2:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c2:disabled {
+  background-color: #eef2f5;
+}
+
+.c2:disabled path {
+  fill: #c7cfd5;
+}
+
+.c2 > svg {
+  width: 16px;
+  height: 16px;
+}
+
+.c3 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0px;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  height: 32px;
+  width: 32px;
+  font-size: 1rem;
+  color: #9ba4ab;
+  padding: 4px;
+}
+
+.c3 path {
+  fill: #6f7a81;
+}
+
+.c3:active {
+  background-color: #ECECEC;
+}
+
+.c3:focus {
+  background-color: transparent;
+  border: 2px solid #458FFF;
+}
+
+.c3:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c3:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c3:disabled {
+  background-color: #eef2f5;
+}
+
+.c3:disabled path {
+  fill: #c7cfd5;
+}
+
+.c3 > svg {
+  width: 24px;
+  height: 24px;
+}
+
+.c4 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0px;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  height: 32px;
+  width: 32px;
+  font-size: 1rem;
+  color: #9ba4ab;
+  height: 40px;
+  width: 40px;
+  padding: 8px;
+}
+
+.c4 path {
+  fill: #6f7a81;
+}
+
+.c4:active {
+  background-color: #ECECEC;
+}
+
+.c4:focus {
+  background-color: transparent;
+  border: 2px solid #458FFF;
+}
+
+.c4:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c4:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c4:disabled {
+  background-color: #eef2f5;
+}
+
+.c4:disabled path {
+  fill: #c7cfd5;
+}
+
+.c4 > svg {
+  width: 24px;
+  height: 24px;
+}
+
+.c5 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0px;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  height: 32px;
+  width: 32px;
+  font-size: 1rem;
+  color: #9ba4ab;
+  height: 48px;
+  width: 48px;
+  padding: 12px;
+}
+
+.c5 path {
+  fill: #6f7a81;
+}
+
+.c5:active {
+  background-color: #ECECEC;
+}
+
+.c5:focus {
+  background-color: transparent;
+  border: 2px solid #458FFF;
+}
+
+.c5:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c5:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c5:disabled {
+  background-color: #eef2f5;
+}
+
+.c5:disabled path {
+  fill: #c7cfd5;
+}
+
+.c5 > svg {
+  width: 24px;
+  height: 24px;
+}
+
+<div>
+  <div>
+    <button
+      class="c0"
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+    <button
+      class="c0"
+      disabled=""
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+    <button
+      class="c2"
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+    <button
+      class="c3"
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+    <button
+      class="c4"
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+    <button
+      class="c5"
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`IconButton should match the snapshot 2`] = `
+.c1 {
+  fill: none;
+  stroke: none;
+}
+
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0px;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  height: 32px;
+  width: 32px;
+  font-size: 1rem;
+  color: #9ba4ab;
+}
+
+.c0 path {
+  fill: #6f7a81;
+}
+
+.c0:active {
+  background-color: #ECECEC;
+}
+
+.c0:focus {
+  background-color: transparent;
+  border: 2px solid #458FFF;
+}
+
+.c0:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c0:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c0:disabled {
+  background-color: #eef2f5;
+}
+
+.c0:disabled path {
+  fill: #c7cfd5;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0px;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  height: 32px;
+  width: 32px;
+  font-size: 1rem;
+  color: #9ba4ab;
+  width: 24px;
+  height: 24px;
+}
+
+.c2 path {
+  fill: #6f7a81;
+}
+
+.c2:active {
+  background-color: #ECECEC;
+}
+
+.c2:focus {
+  background-color: transparent;
+  border: 2px solid #458FFF;
+}
+
+.c2:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c2:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c2:disabled {
+  background-color: #eef2f5;
+}
+
+.c2:disabled path {
+  fill: #c7cfd5;
+}
+
+.c2 > svg {
+  width: 16px;
+  height: 16px;
+}
+
+.c3 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0px;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  height: 32px;
+  width: 32px;
+  font-size: 1rem;
+  color: #9ba4ab;
+  padding: 4px;
+}
+
+.c3 path {
+  fill: #6f7a81;
+}
+
+.c3:active {
+  background-color: #ECECEC;
+}
+
+.c3:focus {
+  background-color: transparent;
+  border: 2px solid #458FFF;
+}
+
+.c3:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c3:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c3:disabled {
+  background-color: #eef2f5;
+}
+
+.c3:disabled path {
+  fill: #c7cfd5;
+}
+
+.c3 > svg {
+  width: 24px;
+  height: 24px;
+}
+
+.c4 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0px;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  height: 32px;
+  width: 32px;
+  font-size: 1rem;
+  color: #9ba4ab;
+  height: 40px;
+  width: 40px;
+  padding: 8px;
+}
+
+.c4 path {
+  fill: #6f7a81;
+}
+
+.c4:active {
+  background-color: #ECECEC;
+}
+
+.c4:focus {
+  background-color: transparent;
+  border: 2px solid #458FFF;
+}
+
+.c4:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c4:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c4:disabled {
+  background-color: #eef2f5;
+}
+
+.c4:disabled path {
+  fill: #c7cfd5;
+}
+
+.c4 > svg {
+  width: 24px;
+  height: 24px;
+}
+
+.c5 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0px;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  height: 32px;
+  width: 32px;
+  font-size: 1rem;
+  color: #9ba4ab;
+  height: 48px;
+  width: 48px;
+  padding: 12px;
+}
+
+.c5 path {
+  fill: #6f7a81;
+}
+
+.c5:active {
+  background-color: #ECECEC;
+}
+
+.c5:focus {
+  background-color: transparent;
+  border: 2px solid #458FFF;
+}
+
+.c5:hover:not([disabled]) {
+  cursor: pointer;
+}
+
+.c5:hover:not(:focus):not([disabled]) {
+  background-color: #FAFAFA;
+}
+
+.c5:disabled {
+  background-color: #eef2f5;
+}
+
+.c5:disabled path {
+  fill: #c7cfd5;
+}
+
+.c5 > svg {
+  width: 24px;
+  height: 24px;
+}
+
+<div>
+  <div>
+    <button
+      class="c0"
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+    <button
+      class="c0"
+      disabled=""
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+    <button
+      class="c2"
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+    <button
+      class="c3"
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+    <button
+      class="c4"
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+    <button
+      class="c5"
+    >
+      <svg
+        class="c1"
+        height="1.5em"
+        viewBox="0 0 24 24"
+        width="1.5em"
+        xmlns="http://www.w3.org/2000/StyledSVG"
+      >
+        <path
+          d="M15,18.75c-.19,0-.38-.07-.53-.22l-6-6c-.29-.29-.29-.77,0-1.06l6-6c.29-.29,.77-.29,1.06,0s.29,.77,0,1.06l-5.47,5.47,5.47,5.47c.29,.29,.29,.77,0,1.06-.15,.15-.34,.22-.53,.22Z"
+          fill="#9BA4AB"
+        />
+      </svg>
+    </button>
+  </div>
+</div>
+`;

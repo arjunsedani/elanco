@@ -1,0 +1,62 @@
+{
+  "foundation": {
+    "duration": {
+      "ultraFast": {
+        "default": {
+          "value": "50ms",
+          "type": "duration"
+        }
+      },
+      "fast": {
+        "default": {
+          "value": "150ms",
+          "type": "duration"
+        }
+      },
+      "medium": {
+        "default": {
+          "value": "300ms",
+          "type": "duration"
+        }
+      },
+      "slow": {
+        "default": {
+          "value": "600ms",
+          "type": "duration"
+        }
+      },
+      "ultraSlow": {
+        "default": {
+          "value": "1000ms",
+          "type": "duration"
+        }
+      }
+    },
+    "timingFunction": {
+      "in": {
+        "default": {
+          "value": [0.4, 0, 0.7, 0.2],
+          "type": "cubicBezier"
+        }
+      },
+      "out": {
+        "default": {
+          "value": [0, 0, 0.2, 1],
+          "type": "cubicBezier"
+        }
+      },
+      "inOut": {
+        "default": {
+          "value": [0.4, 0, 0.2, 1],
+          "type": "cubicBezier"
+        }
+      },
+      "linear": {
+        "default": {
+          "value": "linear",
+          "type": "keyword"
+        }
+      }
+    }
+  }
+}
