@@ -28,7 +28,7 @@ interface GetThemeTokenOptions {
  * @returns
  */
 export const getThemeToken = (themeObj: GetThemeTokenOptions) => {
-  const { brand, polarity = "light", contrast = "base" } = themeObj;
+  const { brand, polarity = "light" } = themeObj;
   if (brand === "health") {
     if (polarity === "light") {
       return defaultThemeTokens;

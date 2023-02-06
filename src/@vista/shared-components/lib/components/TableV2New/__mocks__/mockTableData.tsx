@@ -6,7 +6,7 @@ import SideAndStatusCell from "../cellTemplates/SideAndStatusCell";
 import UnrealisedPLCellTemplate from "../cellTemplates/UnrealisedPLCell";
 import TradableQuantityCellTemplate from "../cellTemplates/TradableQuantityCell";
 import DateTimeCell from "../cellTemplates/DateTimeCell"
-import { MockTableRowV2, Side, TableColumnV2 } from "../types";
+import { MockTableRowV2, TableColumnV2 } from "../types";
 
 export const getMockTableColumns = (): TableColumnV2<MockTableRowV2>[] => [
   {

@@ -85,6 +85,7 @@ export const Button = React.forwardRef<localrefdata, propsdata>(
       if (e.key === "Enter") {
         localRef!.current!.click();
       }
+      // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
 
     React.useEffect(() => {
