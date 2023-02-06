@@ -409,7 +409,6 @@ const StyledButton = styled(Button)((props: ButtonProps) => {
     shape,
     iconAlignment = DEFAULT_ICON_ALIGNMENT,
     icon,
-    isHighContrast,
     children,
   } = normalizeButtonProps(props);
 
