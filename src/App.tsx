@@ -37,7 +37,7 @@ function App() {
   return (
     <div className="App">
       <ThemeProvider theme={{ ...themeCommon(), ...ThemeHEALTH }}>
-        <Button kind="primary" size="small">Themed Table</Button>
+        <Button kind="primary" size="small">CI/CD Deployed</Button>
         <TableV2New
           columns={mockTableColumns}
           rowsData={rowsData}
