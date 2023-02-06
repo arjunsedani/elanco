@@ -28,4 +28,4 @@ jobs:
         git config user.name "arjunsedani"
         git add .
         git commit -m "Deploy to GitHub Pages"
-        git push --force --quiet "https://${ACCESS_TOKEN}@github.com/arjunsedani/elanco.git" master:gh-pages
+        git push --force --quiet "https://${ACTIONS_DEPLOY_ACCESS_TOKEN}@github.com/arjunsedani/elanco.git" master:gh-pages
