@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/elanco/static/css/main.d9812deb.css",
+    "main.js": "/elanco/static/js/main.21d926e2.js",
+    "static/js/787.3367a27a.chunk.js": "/elanco/static/js/787.3367a27a.chunk.js",
+    "static/media/threeDotLoading.gif": "/elanco/static/media/threeDotLoading.81885c51c94f0a67b224.gif",
+    "index.html": "/elanco/index.html",
+    "static/media/backToTop.svg": "/elanco/static/media/backToTop.f90b74d486ed0e8b8738463c3b9cb7a0.svg",
+    "main.d9812deb.css.map": "/elanco/static/css/main.d9812deb.css.map",
+    "main.21d926e2.js.map": "/elanco/static/js/main.21d926e2.js.map",
+    "787.3367a27a.chunk.js.map": "/elanco/static/js/787.3367a27a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9812deb.css",
+    "static/js/main.21d926e2.js"
+  ]
+}
