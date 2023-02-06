@@ -71,7 +71,7 @@ export const Button = React.forwardRef<localrefdata, propsdata>(
     const handleClick = (
       e: React.MouseEvent<HTMLButtonElement | HTMLAnchorElement, MouseEvent>
     ) => {
-      const { onClick, disabled } = props;
+      const { onClick } = props;
       (
         onClick as React.MouseEventHandler<
           HTMLButtonElement | HTMLAnchorElement

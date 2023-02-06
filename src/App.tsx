@@ -5,15 +5,11 @@ import {
 } from "@vista/shared-components/lib/components/TableV2New/__mocks__/mockTableData";
 import './App.css';
 import TableV2New from '@vista/shared-components/lib/components/TableV2New';
-import { MockTableRowV2 } from "@vista/shared-components/lib/components/TableV2New/types";
 import { getTableRowsInGroup } from "@vista/shared-components/lib/components/TableV2New/utils/getTableRowsInGroup";
 
 import themeCommon, {
   ThemeProvider,
-  ThemeHEALTH,
-  ThemePOSB,
-  ThemeBronze,
-  getThemeToken
+  ThemeHEALTH
 } from "@health/theme-common";
 import Button from '@health/buttons';
 function App() {
@@ -22,13 +18,12 @@ function App() {
   const [rowsData, setRowsData] = useState(
     mockOrderStatusTableRowsV2.slice(0, 4)
   );
-  let timeout: NodeJS.Timeout;
   const [fetching, setFetching] = useState(false);
   
   const onScrollToBottom = () => {
     if (!isLastPage) {
       setFetching(true);
-      timeout = setTimeout(() => {
+      setTimeout(() => {
         setFetching(false);
         setIsLastPage(true);
         setRowsData(mockOrderStatusTableRowsV2);

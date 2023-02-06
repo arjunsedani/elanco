@@ -1,4 +1,4 @@
-import { themeCommon, ThemeConfig } from "./styles";
+import { themeCommon } from "./styles";
 export type ThemeCommon = typeof themeCommon;
 export type ThemeInterface = ReturnType<ThemeCommon>;
 export type ThemeProps = keyof ThemeInterface;

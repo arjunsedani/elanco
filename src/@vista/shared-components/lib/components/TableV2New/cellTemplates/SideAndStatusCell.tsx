@@ -11,13 +11,13 @@ const SideAndStatusWrapper = styled.div<{ hasPaddingLeftFromTD?: boolean }>`
         `}
 `;
 
-const SideLabel = styled.span<{ sideFontColor: string }>`
-  display: block;
-  font-size: ${theme.font_size_sm};
-  font-weight: ${theme.font_weight_medium};
-  padding-bottom: ${theme.space_8};
-  color: ${({ sideFontColor }) => sideFontColor};
-`;
+// const SideLabel = styled.span<{ sideFontColor: string }>`
+//   display: block;
+//   font-size: ${theme.font_size_sm};
+//   font-weight: ${theme.font_weight_medium};
+//   padding-bottom: ${theme.space_8};
+//   color: ${({ sideFontColor }) => sideFontColor};
+// `;
 
 export const StatusLabel = styled.span<{ bgColor: string }>`
   display: block;

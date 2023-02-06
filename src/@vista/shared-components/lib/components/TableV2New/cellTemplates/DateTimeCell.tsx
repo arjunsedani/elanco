@@ -1,9 +1,7 @@
 import { css, styled } from "@health/theme-common";
 
 import { theme } from "../../../utils/styleTheme";
-import { getFormattedDate, getFormattedTime } from "../utils/dateTimeUtils";
-
-import { CellPrimaryText, CellSecondaryText } from "../styled.component";
+import { CellPrimaryText } from "../styled.component";
 
 const DateCellWrapper = styled.div<{ hasPaddingLeftFromTD?: boolean }>`
   text-align: right;
